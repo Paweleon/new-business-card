@@ -26,6 +26,9 @@ body {
 }
 
 .person {
+    display: flex;
+    align-items: flex-start;
+    
 
 }
 
@@ -66,4 +69,9 @@ body {
     color: #E20613;
     text-decoration: none;
     margin: 0;
+}
+
+.person__picture {
+    margin-right: 32px;
+   border-radius: 50%;
 }
