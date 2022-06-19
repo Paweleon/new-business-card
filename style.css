@@ -23,7 +23,7 @@ body {
 }
 .main {
 
-    background-image:url(/assets/prąd.png);
+    background-image:url(prąd.png);
     border-radius: 16px;
     width: 624px;
     margin: 16px;
