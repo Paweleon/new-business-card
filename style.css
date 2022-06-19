@@ -28,6 +28,7 @@ body {
     width: 624px;
     margin: 16px;
     padding: 32px;
+    text-align: justify;
 }
 
 .person {
